@@ -1,7 +1,7 @@
 ---
 title: Sample post
 excerpt: This is a sample post
-category: Post
+category: Awards
 tags:
   - post
 image: https://firebasestorage.googleapis.com/v0/b/tip-ie-website-2f9f2.appspot.com/o/Gallery%2F369046059_769539978505768_1354501881411104801_n.jpg?alt=media&token=184eb278-e01f-46b8-830b-7244a9e756f9
